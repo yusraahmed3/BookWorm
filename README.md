@@ -1,1 +1,2 @@
 # BookWorm
+Bookworm is an application where readers can read different kinds of books. It has lots of functionalities. To mention some, readers can browse through different genres, read and pick their favorite books. They can also add a book to their library to save it. Readers can also become authors. Authors can create new stories, save them as drafts, upload them or remove their own books. They can also manage their accounts. Admins manage the whole app. They can post notices, manage users and take action on reported books.
